@@ -6,7 +6,7 @@
   "version": "0.1.2",
   "websiteUrl": "https://kajaril.com/sovereignty-scan/",
   "repository": {
-    "url": "https://github.com/kajaril/sovereignty-scan-mcp",
+    "url": "https://github.com/mightbesaad/sovereignty-scan-mcp",
     "source": "github"
   },
   "remotes": [
