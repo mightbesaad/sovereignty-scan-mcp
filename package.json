@@ -6,10 +6,10 @@
   "author": "kajaril <studio@kajaril.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kajaril/sovereignty-scan-mcp.git"
+    "url": "git+https://github.com/mightbesaad/sovereignty-scan-mcp.git"
   },
   "homepage": "https://kajaril.com/sovereignty-scan/",
-  "bugs": "https://github.com/kajaril/sovereignty-scan-mcp/issues",
+  "bugs": "https://github.com/mightbesaad/sovereignty-scan-mcp/issues",
   "keywords": [
     "mcp",
     "eu-ai-act",

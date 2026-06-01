@@ -115,7 +115,7 @@ Requires a Cloudflare account (Workers + D1 + KV).
 **1. Clone and install**
 
 ```sh
-git clone https://github.com/kajaril/sovereignty-scan-mcp
+git clone https://github.com/mightbesaad/sovereignty-scan-mcp
 cd sovereignty-scan-mcp
 npm install
 ```
